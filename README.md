@@ -1,6 +1,6 @@
 # RoamRight
 
-![Untitled](RoamRight%201d78281a72534014b4754602bc3348b1/Untitled.png)
+![Untitled](RoamRight.png)
 
 ## 📝Introduction
 
